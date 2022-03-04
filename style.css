@@ -10,6 +10,9 @@ background-color: rgb(253, 251, 251);
 header {
 top:0;
 position: fixed;
+background-color: rgb(37, 134, 7);
+width: 100%;
+color: white;
 }
 
 header h1 {
@@ -17,7 +20,7 @@ header h1 {
     }
 
 nav{
-    margin-top: 110px;
+    margin-top: 75px;
     padding-top: 20px;
     padding-bottom: 5px;
     background-color: rgb(24, 94, 24);
