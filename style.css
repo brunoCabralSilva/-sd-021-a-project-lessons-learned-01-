@@ -26,11 +26,6 @@ img{
     margin-top: 20px;
 }
 
-.lesson-learn{
-    display: inline-block;
-    padding-left: 50px;
-    margin-bottom: 50px;
-}
 
 .buttom{
     background-color: #0a7e51;;
@@ -63,4 +58,8 @@ main a{
     margin-top: 40px;
     text-align: center;
 }
-.
+
+ul,ol{
+    margin-bottom: 20px;
+}
+
