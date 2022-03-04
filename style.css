@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body {
 background-color: rgb(253, 251, 251);
 }
@@ -8,32 +13,44 @@ position: fixed;
 }
 
 header h1 {
-    margin: 20px;
-    padding: 10px;
-    color: black;
-}
+    padding:20px;
+    }
 
 nav{
     margin-top: 110px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: rgb(24, 94, 24);
 }
 
-#menu_principal a{
+nav ul li{
+    list-style-type: none;
+    display:inline-block;  
+}
+
+ul li a{
+    color: white;
     text-decoration: none;
-    padding: 10px;
-    margin: 40px;
-    border-color: black;
-    border-width: px;
-    border-style: solid;
-    
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 20px;
+    padding: 20px;
+} 
+
+.lista_menu:hover{
+    background-color: rgb(18, 70, 6);
 }
 
+.listas_aprendizados{
+    font-size: 20px;
+    line-height: 2;
+}
 
 main {
-    margin-left: 51px;
+    margin-left: 50px;
 }
 
 img {
-    padding-top: 200px;
     width: 300px;
     padding-bottom: 20px;
     margin-top: 20px;
@@ -46,7 +63,7 @@ img {
     text-decoration: none;
     color: white;
     font-size: 20px;
-    border-radius: 7px;
+
 }
 
 
