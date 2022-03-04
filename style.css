@@ -6,14 +6,31 @@ body{
     background-color: rgb(253, 251, 251);
 }
 
+header{
+    background-color: #0a7e51;
+    color:white;
+}
+
+header h1{
+    padding: 50px;
+}
+
 main{
-    margin: 50px;
+    margin-left: 50px;
 }
 
 img{
-    width: 400px;
+    width: 300px;
+    padding-bottom: 20px;
+    margin-top: 20px;
 }
 
-#licoes_aprendidas, #licoes_a_aprender{
+.lesson-learn{
     display: inline-block;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+#licoes_aprendidas_e_a_aprender{
+    vertical-align:top
 }
