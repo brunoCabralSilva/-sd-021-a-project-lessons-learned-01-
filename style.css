@@ -17,7 +17,7 @@ color: white;
 
 header h1 {
     padding:20px;
-    }
+}
 
 nav{
     margin-top: 75px;
@@ -69,9 +69,8 @@ img {
 
 }
 
-
 #meu_aprendizado {
-    display: inline-block;
+    float: left;
     max-width: 50%;
     vertical-align: top;
     margin-top: 40px;
@@ -80,7 +79,7 @@ img {
 }
 
 #passagem_aprendizado {
-        display: inline-block;
+        float: right;
         max-width: 30%;
         vertical-align: top;
         margin-top: 40px;
@@ -93,4 +92,8 @@ ul, ol {
 
 p {
     line-height: 2;
+}
+
+footer{
+    display: block;
 }
