@@ -8,7 +8,7 @@ background-color: rgb(253, 251, 251);
 }
 
 header {
-background-color: #0a7e51;
+background-color: #11a36a;
 color: white;
 
 }
@@ -29,7 +29,7 @@ img {
 
 
 .buttom {
-    background-color: #0a7e51;
+    background-color: #11a36a;
     padding: 20px;
     text-decoration: none;
     color: white;
@@ -60,7 +60,7 @@ main a {
     text-align: center;
 }
 
-ul,ol {
+ul, ol {
     margin-bottom: 20px;
 }
 
