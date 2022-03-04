@@ -17,6 +17,13 @@ header h1 {
     padding: 50px;
 }
 
+#menu_principal a{
+    text-decoration: none;
+    padding: 20px;
+    margin: 40px;
+    
+}
+
 main {
     margin-left: 51px;
 }
@@ -37,11 +44,6 @@ img {
     border-radius: 7px;
 }
 
-main a {
-    display: block;
-    max-width: 35%;
-    margin: auto;
-}
 
 #meu_aprendizado {
     display: inline-block;
