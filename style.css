@@ -10,19 +10,25 @@ background-color: rgb(253, 251, 251);
 header {
 background-color: #11a36a;
 color: white;
-
+padding-bottom: 40px;
 }
 
 header h1 {
     padding: 50px;
+    font-size: 45px;
+    color: black;
 }
 
 #menu_principal a{
     text-decoration: none;
-    padding: 20px;
+    padding: 10px;
     margin: 40px;
+    border-color: black;
+    border-width: px;
+    border-style: solid;
     
 }
+
 
 main {
     margin-left: 51px;
@@ -66,3 +72,6 @@ ul, ol {
     margin-bottom: 20px;
 }
 
+p{
+    line-height: 2;
+}
