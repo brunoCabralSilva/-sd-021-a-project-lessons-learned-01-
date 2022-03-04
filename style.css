@@ -1,66 +1,66 @@
-*{
-    margin:0px;
-    padding:0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-body{
-    background-color:rgb(253, 251, 251);
+body {
+    background-color: rgb(253, 251, 251);
 }
 
-header{
-    background-color:#0a7e51;
-    color:white;
+header {
+    background-color: #0a7e51;
+    color: white;
 
 }
 
-header h1{
-    padding:50px;
+header h1 {
+    padding: 50px;
 }
 
-main{
-    margin-left:51px;
+main {
+    margin-left: 51px;
 }
 
-img{
+img {
     width: 300px;
-    padding-bottom:20px;
-    margin-top:20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
 }
 
 
-.buttom{
-    background-color:#0a7e51;;
-    padding:20px;
-    text-decoration:none;
-    color:white;
-    font-size:20px;
-    border-radius:7px;
+.buttom {
+    background-color: #0a7e51;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
 }
 
-main a{
-    display:block;
-    max-width:35%;
-    margin:auto;
+main a {
+    display: block;
+    max-width: 35%;
+    margin: auto;
 }
 
-#meu_aprendizado{
+#meu_aprendizado {
     display: inline-block;
     max-width: 50%;
-    vertical-align:top;
+    vertical-align: top;
     margin-top: 40px;
     margin-right: 100px;
     text-align: center;
 }
 
-#passagem_aprendizado{
+#passagem_aprendizado {
     display: inline-block;
     max-width: 30%;
-    vertical-align:top;
+    vertical-align: top;
     margin-top: 40px;
     text-align: center;
 }
 
-ul,ol{
-    margin-bottom:20px;
+ul,ol {
+    margin-bottom: 20px;
 }
 
