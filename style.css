@@ -11,6 +11,8 @@ header {
 background-color: #11a36a;
 color: white;
 padding-bottom: 40px;
+position: fixed;
+width: 100%;
 }
 
 header h1 {
@@ -35,6 +37,7 @@ main {
 }
 
 img {
+    padding-top: 200px;
     width: 300px;
     padding-bottom: 20px;
     margin-top: 20px;
@@ -75,5 +78,3 @@ ul, ol {
 p {
     line-height: 2;
 }
-
-fim
