@@ -5,19 +5,20 @@ background-color: rgb(253, 251, 251);
 header {
 top:0;
 left: 0;
-padding-top: 0;
-padding:0;
 background-color: #11a36a;
 color: white;
-padding-bottom: 40px;
 position: fixed;
 width: 100%;
 }
 
 header h1 {
     margin: 20px;
-    padding: 40px;
+    padding: 10px;
     color: black;
+}
+
+nav{
+    margin-top: 110px;
 }
 
 #menu_principal a{
