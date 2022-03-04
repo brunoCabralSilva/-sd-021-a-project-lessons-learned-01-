@@ -61,17 +61,17 @@ img {
 }
 
 #passagem_aprendizado {
-    display: inline-block;
-    max-width: 30%;
-    vertical-align: top;
-    margin-top: 40px;
-    text-align: center;
+        display: inline-block;
+        max-width: 30%;
+        vertical-align: top;
+        margin-top: 40px;
+        text-align: center;
 }
 
 ul, ol {
     margin-bottom: 20px;
 }
 
-p{
+p {
     line-height: 2;
 }
