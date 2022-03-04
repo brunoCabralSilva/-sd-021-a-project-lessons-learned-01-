@@ -9,3 +9,11 @@ body{
 main{
     margin: 50px;
 }
+
+img{
+    width: 400px;
+}
+
+#licoes_aprendidas, #licoes_a_aprender{
+    display: inline-block;
+}
