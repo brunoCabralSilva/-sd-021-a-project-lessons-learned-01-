@@ -9,6 +9,7 @@ body{
 header{
     background-color: #0a7e51;
     color:white;
+
 }
 
 header h1{
@@ -31,6 +32,35 @@ img{
     margin-bottom: 50px;
 }
 
-#licoes_aprendidas_e_a_aprender{
-    vertical-align:top
+.buttom{
+    background-color: #0a7e51;;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
 }
+
+main a{
+    display: block;
+    max-width: 35%;
+    margin:auto;
+}
+
+#meu_aprendizado{
+    display: inline-block;
+    max-width: 50%;
+    vertical-align:top;
+    margin-top: 40px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+#passagem_aprendizado{
+    display: inline-block;
+    max-width: 30%;
+    vertical-align:top;
+    margin-top: 40px;
+    text-align: center;
+}
+.
