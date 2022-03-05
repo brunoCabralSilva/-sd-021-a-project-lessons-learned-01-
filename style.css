@@ -75,3 +75,19 @@ aside {
   max-width: 70%;
   margin: auto;
 }
+
+table {
+  text-align: center;
+  margin: 60px;
+  border-style: solid;
+  border-color: black;
+}
+
+table td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#tabela_titulos{
+  font-weight: 600;
+}
