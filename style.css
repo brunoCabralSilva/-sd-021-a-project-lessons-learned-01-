@@ -1,6 +1,6 @@
 *{
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
   line-height: 2;
@@ -20,7 +20,7 @@ header {
 }
 
 header h1 {
-  padding:20px;
+  padding: 20px;
   font-size: 30px;
   line-height: 2;
   color:white;
@@ -35,7 +35,7 @@ nav {
 
 nav ul li {
   list-style-type: none;
-  display:inline-block;  
+  display: inline-block;  
 }
 
 ul li a {
@@ -46,7 +46,7 @@ ul li a {
   padding: 30px;
   font-size: 20px;
   line-height: 2;
-  color:white;
+  color: white;
 } 
 
 .lista_menu:hover {
@@ -59,7 +59,7 @@ ul li a {
 }
 
 .licoes_a_aprender {
-  display:inline-block;
+  display: inline-block;
   margin: 45px;
 }
 
@@ -71,7 +71,7 @@ img {
   width: 300px;
   padding-bottom: 20px;
   margin-top: 20px;
-  display:block;
+  display: block;
 }
 
 
