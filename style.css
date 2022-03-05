@@ -28,8 +28,7 @@ header h1 {
 
 nav {
   margin-top: 100px;
-  padding-top: 20px;
-  padding-bottom: 1px;
+  padding: 20px;
   background-color: rgb(24, 94, 24);
 }
 
@@ -41,7 +40,6 @@ nav ul li {
 ul li a {
   text-decoration: none;
   font-weight: 600;
-  margin-right: 20px;
   padding: 30px;
   font-size: 20px;
   line-height: 2;
@@ -54,57 +52,3 @@ ul li a {
   background-color: rgb(18, 70, 6);
 }
 
-.listas_aprendizados {
-  font-size: 20px;
-  line-height: 2;
-}
-
-.licoes_a_aprender {
-  display: inline-block;
-  margin: 45px;
-}
-
-main {
-  margin-left: 50px;
-}
-
-img {
-  width: 300px;
-  padding-bottom: 20px;
-  margin-top: 20px;
-  display: block;
-}
-
-
-.buttom {
-  background-color: rgb(37, 134, 7);
-  padding: 20px;
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
-}
-
-#meu_aprendizado {
-  float: left;
-  max-width: 50%;
-  vertical-align: top;
-  margin-top: 40px;
-  margin-right: 100px;
-  text-align: center;
-}
-
-#passagem_aprendizado {
-  float: right;
-  max-width: 30%;
-  vertical-align: top;
-  margin-top: 40px;
-  text-align: center;
-}
-
-ul , ol {
-  margin-bottom: 20px;
-}
-
-p {
-  line-height: 2;
-}
