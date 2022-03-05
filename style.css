@@ -4,8 +4,8 @@
   font-size: 20px;
   font-family: 'Montserrat';
   line-height: 2;
-  color: black;
-  
+  color: #000000;
+
 }
 
 body {
@@ -45,7 +45,7 @@ ul li a {
   font-size: 20px;
   line-height: 2;
   color: white;
-  border-style:none;
+  border-style: none;
   border-top: 0;
 }
 
@@ -57,6 +57,6 @@ img {
   width: 400px;
 }
 
-main{
+main {
   margin-left: 30px;
 }
