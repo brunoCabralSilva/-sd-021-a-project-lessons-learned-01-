@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   line-height: 2;
   color: black;
 }
@@ -30,7 +30,7 @@ nav {
   margin-top: 100px;
   padding-top: 20px;
   padding-bottom: 1px;
-  background-color: rgb(24, 94, 24);  
+  background-color: rgb(24, 94, 24);
 }
 
 nav ul li {
@@ -75,7 +75,7 @@ img {
 
 
 .buttom {
-  background-color: #11a36a;
+  background-color: rgb(37, 134, 7);
   padding: 20px;
   text-decoration: none;
   color: white;
@@ -99,7 +99,7 @@ img {
   text-align: center;
 }
 
-ul, ol {
+ul , ol {
   margin-bottom: 20px;
 }
 
