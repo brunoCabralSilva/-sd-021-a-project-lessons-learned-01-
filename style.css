@@ -32,6 +32,10 @@ nav {
   background-color: rgb(24, 94, 24);
 }
 
+section li {
+  margin-left: 30px;
+}
+
 nav ul li {
   list-style-type: none;
   display: inline-block;
@@ -70,16 +74,16 @@ footer {
 }
 
 #meu_aprendizado {
-  display: inline-block;
+  float: left;
   max-width: 40%;
   vertical-align: middle;
   text-align: center;
   margin-top: 40px;
-  margin-left: 60px; 
+  margin-left: 60px;
 }
 
 #experiencias_no_curso {
-  display: inline-block;
+ float: right;
   max-width: 50%;
   vertical-align: middle;
   margin-top: 40px;
@@ -96,7 +100,7 @@ aside {
   background-color: rgb(24, 94, 24);
   padding: 20px;
   text-align: center;
-  max-width: 70%;
+  max-width: 80%;
   margin: auto;
 }
 
@@ -118,13 +122,12 @@ table td {
   font-weight: 600;
 }
 
-.listas_ordenada_e_não_ordenada{
+.listas_ordenada_e_não_ordenada {
   display: inline-block;
   margin-left: 50px;
   margin-right: 80px;
-
 }
 
-section li{
-  margin-left: 30px;
+#tabela {
+  margin-top: 580px;
 }
