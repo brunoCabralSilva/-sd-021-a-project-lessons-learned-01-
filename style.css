@@ -1,10 +1,10 @@
-*{
+* {
   margin: 0;
   padding: 0;
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
   line-height: 2;
-  color:black;
+  color: black;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  top:0;
+  top: 0;
   position: fixed;
   background-color: rgb(37, 134, 7);
   width: 100%;
@@ -23,7 +23,7 @@ header h1 {
   padding: 20px;
   font-size: 30px;
   line-height: 2;
-  color:white;
+  color: white;
 }
 
 nav {
@@ -47,7 +47,7 @@ ul li a {
   font-size: 20px;
   line-height: 2;
   color: white;
-} 
+}
 
 .lista_menu:hover {
   background-color: rgb(18, 70, 6);
