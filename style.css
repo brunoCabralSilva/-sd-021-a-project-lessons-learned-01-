@@ -52,6 +52,12 @@ ul li a {
   background-color: rgb(18, 70, 6);
 }
 
+.titulo_lista{
+  margin-top:50px;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
 img {
   width: 400px;
 }
@@ -90,6 +96,12 @@ aside {
   margin: auto;
 }
 
+#relato_aluno {
+  font-size: 15px;
+  text-align: right;
+  margin-top: 20px;
+}
+
 table {
   text-align: center;
   margin: 60px;
@@ -100,7 +112,7 @@ table {
 table td {
   border: 1px solid black;
   padding: 10px;
-  background-color:rgb(193, 238, 183)
+  background-color: rgb(193, 238, 183)
 }
 
 #tabela_titulos {
