@@ -69,11 +69,19 @@ footer {
   text-align: center;
 }
 
-#experiencias_no_curso , #meu_aprendizado {
+#meu_aprendizado {
   display: inline-block;
-  max-width: 45%;
+  max-width: 40%;
   vertical-align: middle;
   text-align: center;
+  margin-top: 40px;
+  margin-left: 60px; 
+}
+
+#experiencias_no_curso {
+  display: inline-block;
+  max-width: 50%;
+  vertical-align: middle;
   margin-top: 40px;
   margin-left: 50px;
 }
@@ -94,7 +102,7 @@ aside {
 
 table {
   text-align: center;
-  margin: 40px auto;
+  margin: 80px auto;
   border-style: solid;
   border-color: black;
   background-color: rgb(24, 94, 24);
