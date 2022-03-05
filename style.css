@@ -64,6 +64,7 @@ img {
 
 main {
   margin-left: 40px;
+  margin-right: 40px;
 }
 
 footer {
@@ -98,9 +99,10 @@ aside {
 
 table {
   text-align: center;
-  margin: 60px;
+  margin: 40px auto;
   border-style: solid;
   border-color: black;
+  background-color: rgb(24, 94, 24);
 }
 
 table td {
