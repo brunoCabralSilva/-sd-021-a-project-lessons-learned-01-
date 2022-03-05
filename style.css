@@ -52,8 +52,8 @@ ul li a {
   background-color: rgb(18, 70, 6);
 }
 
-.titulo_lista{
-  margin-top:50px;
+.titulo_lista {
+  margin-top: 50px;
   margin-bottom: 20px;
   font-size: 25px;
 }
@@ -112,7 +112,7 @@ table {
 table td {
   border: 1px solid black;
   padding: 10px;
-  background-color: rgb(193, 238, 183)
+  background-color: rgb(193, 238, 183);
 }
 
 #tabela_titulos {
