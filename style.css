@@ -67,6 +67,20 @@ footer {
   text-align: center;
 }
 
+#experiencias_no_curso , #meu_aprendizado {
+  display: inline-block;
+  max-width: 45%;
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+article h2 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
 aside {
   color: white;
   background-color: rgb(24, 94, 24);
@@ -86,8 +100,9 @@ table {
 table td {
   border: 1px solid black;
   padding: 10px;
+  background-color:rgb(193, 238, 183)
 }
 
-#tabela_titulos{
+#tabela_titulos {
   font-weight: 600;
 }
